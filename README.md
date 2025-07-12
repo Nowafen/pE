@@ -138,7 +138,7 @@ It covers techniques, custom tooling, and practical development in **Bash**, **P
 ## 📚 References
 
 - [MITRE ATT&CK - Post-Exploitation](https://attack.mitre.org/)
-- [Red Team Notes - Payload Dev](https://maldevacademy.com/)
+- [Youtube](https://www.youtube.com/@_JohnHammond)
 - [Sliver Framework Docs](https://github.com/BishopFox/sliver)
 - [Impacket](https://github.com/fortra/impacket)
 
