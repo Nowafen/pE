@@ -1,7 +1,7 @@
 # Post-Exploitation Roadmap
 
-This repository documents an in-depth, hands-on roadmap for mastering **Post-Exploitation** in offensive security operations.  
-It covers real-world techniques, custom tooling, and practical development in **Bash**, **Python**, **C**, and **Go**.
+This repository documents, hands-on roadmap for **Post-Exploitation** in offensive security operations.  
+It covers techniques, custom tooling, and practical development in **Bash**, **Python**, **C**, and **Go**.
 
 ---
 
